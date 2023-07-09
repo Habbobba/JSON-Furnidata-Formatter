@@ -9,10 +9,6 @@ It takes an input file with unformatted JSON data and outputs a formatted versio
 2. Run the script.
 3. The formatted JSON file will be generated in the `formatted` directory with the same name as the input file.
 
-## Prerequisites
-
-- Python 3.x
-
 ## Usage
 
 1. Clone the repository or download the script file.
