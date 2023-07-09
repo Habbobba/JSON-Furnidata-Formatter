@@ -1,6 +1,7 @@
 # JSON Beautifier
 
-This script is used to beautify JSON files by formatting them with proper indentation. It takes an input file with unformatted JSON data and outputs a formatted version of the file.
+This script is used to beautify JSON files by formatting them with proper indentation.
+It takes an input file with unformatted JSON data and outputs a formatted version of the file.
 
 ## Instructions
 
@@ -15,19 +16,16 @@ This script is used to beautify JSON files by formatting them with proper indent
 ## Usage
 
 1. Clone the repository or download the script file.
-2. Install the required dependencies by running the following command:
-   ```
-   pip install json
-   ```
-3. Run the script using the following command:
+2. Run the script using the following command:
+
    ```
    python script.py
    ```
 
 ## Credits
 
-This script was created by Gizmo.
+This collection of scripts was created by Gizmo.
 
-Feel free to reach out to Gizmo#1813 on Discord if you have any questions or need assistance with this script.
+## Donate
 
-Enjoy formatting your JSON files!
+If you wish to donate, please contact Gizmo#1813 on Discord.
