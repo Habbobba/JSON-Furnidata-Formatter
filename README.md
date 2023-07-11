@@ -20,7 +20,7 @@ It takes an input file with unformatted JSON data and outputs a formatted versio
 
 ## Credits
 
-This collection of scripts was created by Gizmo.
+This script was created by Gizmo.
 
 ## Donate
 
